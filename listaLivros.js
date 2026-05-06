@@ -1,7 +1,7 @@
 const precosLivros = [
 { 
     titulo: "Extraordinário", 
-    preco: 50
+    preco: 55
 },
 { 
     titulo: "É Assim que Acaba", 
